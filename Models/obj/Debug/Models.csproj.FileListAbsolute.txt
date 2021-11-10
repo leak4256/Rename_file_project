@@ -1,0 +1,60 @@
+C:\development\SimplyTravel\Models\bin\Debug\Models.dll.config
+C:\development\SimplyTravel\Models\bin\Debug\Models.dll
+C:\development\SimplyTravel\Models\bin\Debug\Models.pdb
+C:\development\SimplyTravel\Models\bin\Debug\EntityFramework.dll
+C:\development\SimplyTravel\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\development\SimplyTravel\Models\bin\Debug\EntityFramework.xml
+C:\development\SimplyTravel\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\development\SimplyTravel\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\development\SimplyTravel\Models\obj\Debug\Models.csproj.CopyComplete
+C:\development\SimplyTravel\Models\obj\Debug\Models.dll
+C:\development\SimplyTravel\Models\obj\Debug\Models.pdb
+C:\development\SimplyTravel\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\development\SimplyTravel\SimplyTravel\Models\bin\Debug\Models.dll.config
+C:\development\SimplyTravel\SimplyTravel\Models\bin\Debug\Models.dll
+C:\development\SimplyTravel\SimplyTravel\Models\bin\Debug\Models.pdb
+C:\development\SimplyTravel\SimplyTravel\Models\bin\Debug\EntityFramework.dll
+C:\development\SimplyTravel\SimplyTravel\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\development\SimplyTravel\SimplyTravel\Models\bin\Debug\EntityFramework.xml
+C:\development\SimplyTravel\SimplyTravel\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\development\SimplyTravel\SimplyTravel\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\development\SimplyTravel\SimplyTravel\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\development\SimplyTravel\SimplyTravel\Models\obj\Debug\Models.csproj.CopyComplete
+C:\development\SimplyTravel\SimplyTravel\Models\obj\Debug\Models.dll
+C:\development\SimplyTravel\SimplyTravel\Models\obj\Debug\Models.pdb
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\Models\bin\Debug\Models.dll.config
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\Models\bin\Debug\Models.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\Models\bin\Debug\Models.pdb
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\Models\bin\Debug\EntityFramework.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\Models\bin\Debug\EntityFramework.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\Models\obj\Debug\Models.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\Models\obj\Debug\Models.pdb
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\Models\bin\Debug\Models.dll.config
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\Models\bin\Debug\Models.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\Models\bin\Debug\Models.pdb
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\Models\bin\Debug\EntityFramework.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\Models\bin\Debug\EntityFramework.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\Models\obj\Debug\Models.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\Models\obj\Debug\Models.pdb
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\Models\bin\Debug\Models.dll.config
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\Models\bin\Debug\Models.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\Models\bin\Debug\Models.pdb
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\Models\bin\Debug\EntityFramework.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\Models\bin\Debug\EntityFramework.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\Models\obj\Debug\Models.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\Models\obj\Debug\Models.pdb

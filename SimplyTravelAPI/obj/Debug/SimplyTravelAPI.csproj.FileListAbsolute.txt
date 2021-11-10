@@ -1,0 +1,390 @@
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\SimplyTravelAPI.dll.config
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\SimplyTravelAPI.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\SimplyTravelAPI.pdb
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\csc.exe
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\csc.exe.config
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\csc.rsp
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\csi.exe
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\csi.exe.config
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\csi.rsp
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.AppContext.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Console.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\vbc.exe
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\vbc.exe.config
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\vbc.rsp
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\Antlr3.Runtime.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\EntityFramework.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\Models.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\Newtonsoft.Json.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\SimpltyTravelBLL.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.Helpers.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.Http.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.Mvc.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.Optimization.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.Razor.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.WebPages.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\WebGrease.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\SimplyTravelDAL.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\Models.pdb
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\Models.dll.config
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\SimpltyTravelBLL.pdb
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\SimpltyTravelBLL.dll.config
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\EntityFramework.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\Newtonsoft.Json.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.Helpers.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.Http.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.Mvc.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.Optimization.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.Razor.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.WebPages.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\Antlr3.Runtime.pdb
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\SimplyTravelDAL.pdb
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\bin\SimplyTravelDAL.dll.config
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.csproj.CopyComplete
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.dll
+C:\Users\user\Source\Repos\EstiZloch\SimplyTravel\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.pdb
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\SimplyTravelAPI.dll.config
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\SimplyTravelAPI.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\SimplyTravelAPI.pdb
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\csc.exe
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\csc.exe.config
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\csc.rsp
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\csi.exe
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\csi.exe.config
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\csi.rsp
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.AppContext.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Console.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.IO.Compression.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Net.Http.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Net.Sockets.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.ValueTuple.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Xml.XPath.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\vbc.exe
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\vbc.exe.config
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\vbc.rsp
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\VBCSCompiler.exe
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\Antlr3.Runtime.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\EntityFramework.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\EntityFramework.SqlServer.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\Models.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\Newtonsoft.Json.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\SimpltyTravelBLL.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Net.Http.Formatting.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.Helpers.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.Http.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.Http.WebHost.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.Mvc.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.Optimization.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.Razor.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.WebPages.Deployment.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.WebPages.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.WebPages.Razor.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\WebGrease.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\SimplyTravelDAL.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\Models.pdb
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\Models.dll.config
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\SimpltyTravelBLL.pdb
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\SimpltyTravelBLL.dll.config
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\EntityFramework.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\EntityFramework.SqlServer.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\Newtonsoft.Json.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Net.Http.Formatting.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.Helpers.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.Http.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.Http.WebHost.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.Mvc.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.Optimization.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.Razor.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.WebPages.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.WebPages.Deployment.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\System.Web.WebPages.Razor.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\Antlr3.Runtime.pdb
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\SimplyTravelDAL.pdb
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\bin\SimplyTravelDAL.dll.config
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.csprojAssemblyReference.cache
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.csproj.CoreCompileInputs.cache
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.csproj.CopyComplete
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.dll
+C:\development\SimplyTravel\SimplyTravel\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.pdb
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\SimplyTravelAPI.dll.config
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\SimplyTravelAPI.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\SimplyTravelAPI.pdb
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\csc.exe
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\csc.exe.config
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\csc.rsp
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\csi.exe
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\csi.exe.config
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\csi.rsp
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.AppContext.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Console.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\vbc.exe
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\vbc.exe.config
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\vbc.rsp
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\Antlr3.Runtime.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\Models.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\Newtonsoft.Json.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\SimpltyTravelBLL.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.Helpers.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.Http.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.Mvc.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.Optimization.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.Razor.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.WebPages.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\WebGrease.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\SimplyTravelDAL.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\Models.pdb
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\Models.dll.config
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\SimpltyTravelBLL.pdb
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\SimpltyTravelBLL.dll.config
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\EntityFramework.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\Newtonsoft.Json.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.Helpers.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.Http.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.Mvc.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.Optimization.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.Razor.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.WebPages.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\Antlr3.Runtime.pdb
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\SimplyTravelDAL.pdb
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\bin\SimplyTravelDAL.dll.config
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.csproj.AssemblyReference.cache
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.csproj.CoreCompileInputs.cache
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.csproj.CopyComplete
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.dll
+C:\Users\לאה\Documents\final trip project\SimplyTravelServer\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.pdb
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\SimplyTravelAPI.dll.config
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\SimplyTravelAPI.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\SimplyTravelAPI.pdb
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\csc.exe
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\csc.exe.config
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\csc.rsp
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\csi.exe
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\csi.exe.config
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\csi.rsp
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.AppContext.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Console.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\vbc.exe
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\vbc.exe.config
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\vbc.rsp
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\Antlr3.Runtime.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\Models.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\Newtonsoft.Json.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\SimpltyTravelBLL.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.Helpers.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.Http.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.Mvc.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.Optimization.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.Razor.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.WebPages.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\WebGrease.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\SimplyTravelDAL.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\Models.pdb
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\Models.dll.config
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\SimpltyTravelBLL.pdb
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\SimpltyTravelBLL.dll.config
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\EntityFramework.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\Newtonsoft.Json.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.Helpers.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.Http.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.Mvc.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.Optimization.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.Razor.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.WebPages.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\Antlr3.Runtime.pdb
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\SimplyTravelDAL.pdb
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\SimplyTravelDAL.dll.config
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.csproj.AssemblyReference.cache
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.csproj.CoreCompileInputs.cache
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.csproj.CopyComplete
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.dll
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\obj\Debug\SimplyTravelAPI.pdb
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\SimplyTravel.mdf
+C:\Users\לאה\Documents\final trip project\‏‏SimplyTravelServer - עותק (4)\SimplyTravelAPI\bin\SimplyTravel_log.ldf

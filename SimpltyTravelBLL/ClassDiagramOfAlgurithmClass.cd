@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimpltyTravelBLL.Algurithm">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACBAAAAAQAAAQCIAAAAAAAAEAAAQAAUBAAAAAAA=</HashCode>
+      <FileName>Algurithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpltyTravelBLL.RootDistanceBase">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAABAAAAQAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>DistanceDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpltyTravelBLL.Row">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DistanceDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpltyTravelBLL.Element">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DistanceDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpltyTravelBLL.Distance">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAAAAAAA=</HashCode>
+      <FileName>DistanceDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpltyTravelBLL.Duration">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAAAAAAA=</HashCode>
+      <FileName>DistanceDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpltyTravelBLL.RootLocationBase">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>LocationBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpltyTravelBLL.Result">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LocationBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpltyTravelBLL.Validation">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQABEABAAAAAAADACAAAQAAAgAAAAAABQAAAAAA=</HashCode>
+      <FileName>Validation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.SendMail">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>SendMail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
